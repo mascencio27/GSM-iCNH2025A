@@ -1,1 +1,1 @@
-Supplementary code and files for the manuscript Production of polyhydroxybutyrate by fed-batch pulse-feeding cultivations of Cupriavidus necator using dextrose from bitter cassava starch as low-cost carbon source
+Supplementary code and files for the manuscript Integrating fed-batch pulse feeding and flux balance analysis for efficient PHB production by Cupriavidus necator from cassava-based dextrose
